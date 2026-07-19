@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/lucasBalmantcoder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2C5364&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Lucas!;Analista+de+Sistemas+%2F+Backend+Developer;Java+%C2%B7+C%23+%C2%B7+Python+%C2%B7+React;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2C5364&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Lucas!;Analista+de+Sistemas+%2F+Backend+Developer;js+Java+%C2%B7+C%23+%C2%B7+Python+%C2%B7+React;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
