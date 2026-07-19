@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/lucasBalmantcoder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=2C5364&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas!;Analista+de+Sistemas+%2F+Backend+Developer;Java+%C2%B7+C%23+%C2%B7+Python+%C2%B7+React;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2C5364&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Lucas!;Analista+de+Sistemas+%2F+Backend+Developer;Java+%C2%B7+C%23+%C2%B7+Python+%C2%B7+React;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -53,19 +53,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasBalmantcoder&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasBalmantcoder&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasBalmantcoder&hide_border=true" />
-</p>
-
----
-
 ### 🐍 Contribuições
 
 ![snake gif](https://raw.githubusercontent.com/lucasBalmantcoder/lucasBalmantcoder/output/github-contribution-grid-snake.svg)
@@ -75,10 +62,10 @@
 ### 📫 Contatos
 
 <p align="center">
-  <a href="mailto:lucaspatrickr5@gmail.com">
+  <a href="mailto:seu-email@gmail.com">
     <img src="https://img.shields.io/badge/-Email-e9d8d4?style=for-the-badge&logo=gmail&logoColor=C13154" />
   </a>
-  <a href="https://www.linkedin.com/in/lucas-lopes-b98717381/">
+  <a href="https://www.linkedin.com/in/seu-usuario/">
     <img src="https://img.shields.io/badge/-LinkedIn-e9d8d4?style=for-the-badge&logo=linkedin&logoColor=C13154" />
   </a>
 </p>
