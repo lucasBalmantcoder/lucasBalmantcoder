@@ -12,7 +12,6 @@
 - 🌱 Tenho interesse em aprender novas tecnologias e entender como as ferramentas funcionam por dentro.
 - 💻 Aqui você encontra meus projetos em **Java, C# e Python** — e, de vez em quando, outras tecnologias também.
 - 🎯 Atualmente meu foco está no backend, mas também atuo no frontend com **React**.
-- 🚀 Então... aproveite, e cuidado!
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="22" />&nbsp;
