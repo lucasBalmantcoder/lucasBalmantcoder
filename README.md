@@ -55,17 +55,21 @@
 
 ### 🐍 Contribuições
 
-![snake gif](https://raw.githubusercontent.com/lucasBalmantcoder/lucasBalmantcoder/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasBalmantcoder/lucasBalmantcoder/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasBalmantcoder/lucasBalmantcoder/output/github-contribution-grid-snake.svg" />
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/lucasBalmantcoder/lucasBalmantcoder/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
 ### 📫 Contatos
 
 <p align="center">
-  <a href="mailto:lucaspatrickr5@gmail.com">
+  <a href="mailto:seu-email@gmail.com">
     <img src="https://img.shields.io/badge/-Email-e9d8d4?style=for-the-badge&logo=gmail&logoColor=C13154" />
   </a>
-  <a href="https://www.linkedin.com/in/lucas-lopes-b98717381/">
+  <a href="https://www.linkedin.com/in/seu-usuario/">
     <img src="https://img.shields.io/badge/-LinkedIn-e9d8d4?style=for-the-badge&logo=linkedin&logoColor=C13154" />
   </a>
 </p>
