@@ -62,10 +62,10 @@
 ### 📫 Contatos
 
 <p align="center">
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:lucaspatrickr5@gmail.com">
     <img src="https://img.shields.io/badge/-Email-e9d8d4?style=for-the-badge&logo=gmail&logoColor=C13154" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+  <a href="https://www.linkedin.com/in/lucas-lopes-b98717381/">
     <img src="https://img.shields.io/badge/-LinkedIn-e9d8d4?style=for-the-badge&logo=linkedin&logoColor=C13154" />
   </a>
 </p>
